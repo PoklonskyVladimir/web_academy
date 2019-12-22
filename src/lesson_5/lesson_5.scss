@@ -1,0 +1,14 @@
+$main-color: red;
+$accent-color: yellow;
+$main-color-dark: brown;
+
+.container {
+  background: red;
+}
+
+.child {
+  border: 1px solid green;
+}
+
+.container .child {
+}
